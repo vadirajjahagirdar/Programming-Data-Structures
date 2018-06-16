@@ -6,7 +6,7 @@ Time Complexity(Worst Case):
 2. LinkedList Deletion: O(n)
 3. LinkedList Search: O(n)
 
-Before code creates a students LinkedList and most important LinkedList operations are illustrated.
+Following code creates a students LinkedList and most important LinkedList operations are illustrated.
  */
 
 package com.company;
