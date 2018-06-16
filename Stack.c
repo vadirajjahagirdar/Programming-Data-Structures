@@ -9,6 +9,7 @@ void push(int stack[], int *top, int element)
            printf("Stack Overflow, Cannot insert element: %d\n",element);
            return ;
    }
+   
    (*top) = (*top) + 1;
    stack[(*top)] = element;
    printf("Inserted %d\n", element);
