@@ -5,7 +5,7 @@ Time Complexity(Worst Case):
 2. Queue Deletion: O(1)
 3. Queue Search: O(n)
 
-Following code creates a students LinkedList and most important Queue operations are illustrated.
+Following code creates a queue of Strings and most important Queue operations are illustrated.
  */
 
 package com.company;
